@@ -97,8 +97,7 @@
   
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square)  
 <br />
-
+[Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square)  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
