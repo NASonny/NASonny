@@ -12,7 +12,7 @@
 
 - ❓ Ask me about anything you want !  
   
-
+![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square) 
 <br/>  
 
 
@@ -94,7 +94,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square)  
+ 
 <br/>  
 
 
