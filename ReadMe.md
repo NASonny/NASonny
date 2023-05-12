@@ -1,7 +1,7 @@
 # <div align="center">About me 👋</div>  
   
 
-### <div align="center">I'm Sonny, Freelance developer working on C Project and Other 🚀 <br>Former Epitech Student 🐱‍💻</div>  
+### <div align="center">I'm Sonny, Freelance developer 🐱‍💻 working on C Project and Other 🚀 <br>Former Epitech Student</div>  
   
 
 - 🌱 I’m currently learning Game programming, DevOps, Web Technology  
