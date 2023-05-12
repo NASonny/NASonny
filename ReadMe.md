@@ -94,7 +94,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square)  
+<br/> ![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square)  
   
 
 <br/>  
