@@ -58,7 +58,6 @@
 
 <h3 align="center">🔥   My Stats</h3>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NASonny&theme=discord_old_blurple" align="center" /></div>
-<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NASonny&theme=discord_old_blurple&utcOffset=8"/></div> 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny&hide_border=true&layout=compact"/></div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NASonny&theme=discord_old_blurple&utcOffset=8" align="left"/></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=NASonny&data=followers,repositories,stars,commits&theme=nautilus" align="center"/></div>
-###
