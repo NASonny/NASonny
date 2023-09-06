@@ -57,8 +57,8 @@
 <br clear="both">
 
 <h3 align="center">🔥   My Stats</h3>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NASonny&theme=discord_old_blurple)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NASonny&theme=discord_old_blurple&utcOffset=8
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny&hide_border=true&layout=compact" align="center" /></div>
-###
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NASonny&theme=discord_old_blurple" align="center" /></div>
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NASonny&theme=discord_old_blurple&utcOffset=8"</></div> 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny&hide_border=true&layout=compact" align="right" /></div>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+###
