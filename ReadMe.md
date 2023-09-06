@@ -1,103 +1,64 @@
-# <div align="center">About me 👋</div>  
-  
+<br clear="both">
 
-### <div align="center">I'm Sonny, Freelance developer 💻 working on C Project and Other 🚀 <br>Former Epitech Student</div>  
-  
-
-- 🌱 I’m currently learning Game programming, DevOps, Web Technology  
-  
-
-- 🔭 I’m currently working on some old project from Epitech  
-  
-
-- ❓ Ask me about anything you want !  
-  
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/NASonny" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sonny-naidja" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img height="200" src="https://i.postimg.cc/hv4KmJ9k/github-header-image-2.png"  />
+</div>
 
-<br/>  
+###
 
+<br clear="both">
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=NASonny&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<h3 align="center">👩‍💻  About Me</h3>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny&hide_border=true&layout=compact" align="center" /></div>  
+###
 
-<br/>  
+<p align="center">I'm Sonny Naidja from France<br>Freelance developer 💻 working on C Project and Other 🚀<br>Former Epitech Student<br><br>🌱 I’m currently learning Game programming, DevOps, Web Technology<br><br>🔭 I’m currently working on some old project from Epitech</p>
 
-  
+###
 
-<br/>  
+<br clear="both">
 
- 
-<br/>  
+<h3 align="center">🛠 Language and tools i use</h3>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=NASonny&&style=flat-square) 
-<br />
-----
+###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="70" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bash" height="70" alt="bash logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">🔥   My Stats</h3>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NASonny&theme=discord_old_blurple)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NASonny&theme=discord_old_blurple&utcOffset=8
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASonny&hide_border=true&layout=compact" align="center" /></div>
+###
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
